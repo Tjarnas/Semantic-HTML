@@ -1,3 +1,3 @@
-# Semantic-HTML
-# Semantic-HTML
-# Semantic-HTML
+Beetroot Academy - Homework 01
+
+Assignment: Create a website using semantic HTML.
